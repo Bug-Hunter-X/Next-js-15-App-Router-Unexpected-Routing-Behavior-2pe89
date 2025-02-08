@@ -1,0 +1,3 @@
+# Next.js 15 App Router Unexpected Routing Behavior
+
+This repository demonstrates an unexpected routing issue encountered in Next.js 15's App Router.  The issue involves unpredictable navigation behavior when transitioning between pages, potentially related to client-side routing or middleware interactions.  The `bug.js` file contains the problematic code, while `bugSolution.js` offers a possible solution or workaround if found.
